@@ -76,7 +76,7 @@
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/RyanBProg/my-portfolio" target="_blank">
+  <a href="https://github.com/RyanBProg/portfolio-v1" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Repo&color=05122A&style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="" target="_blank">
@@ -87,7 +87,7 @@
     </td>
     <!-- Project 4 -->
     <td width="50%" valign="top">
-      <h3 align="center">Student Hub</h3>
+      <h3 align="center">Shoe Junky</h3>
         <br />
         <a target="_blank" href="">
           <img src="" width="100%" alt="student hub app"/>
