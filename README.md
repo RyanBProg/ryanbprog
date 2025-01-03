@@ -71,7 +71,7 @@
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
       <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://portfolio-v1-ryans-projects-197c1757.vercel.app">
           <img src="" width="100%" alt="my portfolio"/>
         </a>
       <br />
@@ -79,11 +79,11 @@
   <a href="https://github.com/RyanBProg/portfolio-v1" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Repo&color=05122A&style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://portfolio-v1-ryans-projects-197c1757.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Visit%20Site&color=05122A&style=flat&logo=google-chrome&logoColor=white"/>
   </a>
       </p>
-        <p><strong>Typescript, React, Next.js, Tailwind, Node.js, & Express.js</strong> - Platform to...</p>
+        <p><strong>Typescript, Astro, Tailwind & GSAP</strong> - A modern, responsive portfolio website showcasing my work as a Full Stack Developer. Built with Astro for optimal         performance and user experience</p>
     </td>
     <!-- Project 4 -->
     <td width="50%" valign="top">
