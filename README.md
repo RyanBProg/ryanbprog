@@ -1,6 +1,7 @@
 # Ryan Bowler
 
 #### 👋 &nbsp;Connect With Me
+
 <p>
 <a href="https://my-portfolio-six-taupe-76.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ryan-bowler-601919170/"><img src="https://img.shields.io/badge/-Ryan%20Bowler-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -72,7 +73,7 @@
       <h3 align="center">My Portfolio</h3>
       <br />
         <a target="_blank" href="https://portfolio-v1-ryans-projects-197c1757.vercel.app">
-          <img src="" width="100%" alt="my portfolio"/>
+          <img src="project-images/my-portfolio-cover.png" width="100%" alt="my portfolio"/>
         </a>
       <br />
         <p align="center">
