@@ -43,7 +43,7 @@
           <img src="https://img.shields.io/static/v1?label=&message=Visit%20Site&color=05122A&style=flat&logo=google-chrome&logoColor=white"/>
         </a>
       </p>
-      <p><strong>Typescript, React, Next.js, Tailwind, Node.js, & Express.js</strong> - Platform to...</p>
+      <p><strong>Typescript, React, Next.js, Node.js, Express.js, MongoDB, Tailwind & DaisyUI</strong> - Platform to...</p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
