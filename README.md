@@ -3,7 +3,7 @@
 #### 👋 &nbsp;Connect With Me
 
 <span>
-<a href="https://my-portfolio-six-taupe-76.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://dev-trainer-frontend-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ryan-bowler-601919170/"><img src="https://img.shields.io/badge/-Ryan%20Bowler-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ryanbprog@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </span>
@@ -39,7 +39,7 @@
         <a href="https://github.com/RyanBProg/dev-trainer" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=Repo&color=05122A&style=flat&logo=github&logoColor=white"/>
         </a>  
-        <a href="" target="_blank">
+        <a href="https://dev-trainer-frontend-ryans-projects-197c1757.vercel.app/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=Visit%20Site&color=05122A&style=flat&logo=google-chrome&logoColor=white"/>
         </a>
       </p>
