@@ -36,61 +36,61 @@
       </a>
       <hr />
       <div align="center">
-        <a href="https://github.com/RyanBProg/dev-trainer"><img src="https://img.shields.io/badge/-GitHub%20Repo-36465D?style=flat&logo=github&logoColor=white"/></a>
+        <a target="_blank" href="https://github.com/RyanBProg/dev-trainer"><img src="https://img.shields.io/badge/-GitHub%20Repo-36465D?style=flat&logo=github&logoColor=white"/></a>
         &nbsp;&nbsp;
-        <a href="https://dev-trainer-frontend-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+        <a target="_blank" href="https://dev-trainer-frontend-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
-       <br /> 
+      <br />
       <p align="left"><strong>Typescript, React, Next.js, Node.js, Express.js, MongoDB, Tailwind & DaisyUI</strong> - Platform to...</p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
-      <h3>Better Spanish</h3>
+      <h3 align="center">Better Spanish</h3>
+      <br />
       <a target="_blank" href="">
         <img src="project-images/my-portfolio-cover.jpg" width="100%"  alt="better spanish app"/>
       </a>
-      <span align="center">
-        <a href="https://github.com/RyanBProg/better-spanish" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=Repo&color=05122A&style=flat&logo=github&logoColor=white"/>
-        </a>
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=Visit%20Site&color=05122A&style=flat&logo=google-chrome&logoColor=white"/>
-        </a>
-      </span>
+      <hr />
+      <div align="center">
+        <a target="_blank" href="https://github.com/RyanBProg/better-spanish"><img src="https://img.shields.io/badge/-GitHub%20Repo-36465D?style=flat&logo=github&logoColor=white"/></a>
+        &nbsp;&nbsp;
+        <a target="_blank" href=""><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+      </div>
+      <br />
       <p><strong>Typescript, React, Next.js, Tailwind, Node.js, & Express.js</strong> - Platform to...</p>
     </td>
   </tr>
   <tr>
     <!-- Project 3 -->
     <td width="50%" valign="top">
-      <h3>My Portfolio</h3>
+      <h3 align="center">My Portfolio</h3>
+      <br />
       <a target="_blank" href="https://portfolio-v1-ryans-projects-197c1757.vercel.app">
         <img src="project-images/my-portfolio-cover.jpg" width="100%" alt="my portfolio"/>
       </a>
-      <span align="center">
-        <a href="https://github.com/RyanBProg/portfolio-v1" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=Repo&color=05122A&style=flat&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://portfolio-v1-ryans-projects-197c1757.vercel.app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=Visit%20Site&color=05122A&style=flat&logo=google-chrome&logoColor=white"/>
-        </a>
-      </span>
+      <hr />
+      <div align="center">
+        <a target="_blank" href="https://github.com/RyanBProg/portfolio-v1"><img src="https://img.shields.io/badge/-GitHub%20Repo-36465D?style=flat&logo=github&logoColor=white"/></a>
+        &nbsp;&nbsp;
+        <a target="_blank" href="https://portfolio-v1-ryans-projects-197c1757.vercel.app"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+      </div>
+      <br />
       <p><strong>Typescript, Astro, Tailwind & GSAP</strong> - A modern, responsive portfolio website showcasing my work as a Full Stack Developer. Built with Astro for optimal performance and user experience</p>
     </td>
     <!-- Project 4 -->
     <td width="50%" valign="top">
-      <h3>Shoe Junky</h3>
+      <h3 align="center">Shoe Junky</h3>
+      <br />
       <a target="_blank" href="">
         <img src="project-images/my-portfolio-cover.jpg" width="100%" alt="shoe junky app"/>
       </a>
-      <span align="center">
-        <a href="https://github.com/RyanBProg/shoe-junky" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=Repo&color=05122A&style=flat&logo=github&logoColor=white"/>
-        </a>
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=Visit%20Site&color=05122A&style=flat&logo=google-chrome&logoColor=white"/>
-        </a>
-      </span>
+      <hr />
+      <div align="center">
+        <a target="_blank" href="https://github.com/RyanBProg/shoe-junky"><img src="https://img.shields.io/badge/-GitHub%20Repo-36465D?style=flat&logo=github&logoColor=white"/></a>
+        &nbsp;&nbsp;
+        <a target="_blank" href=""><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+      </div>
+      <br />
       <p><strong>Typescript, React, Next.js, Tailwind, Node.js, & Express.js</strong> - Platform to...</p>
     </td>
   </tr>
