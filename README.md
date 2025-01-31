@@ -48,16 +48,16 @@
       <h3 align="center">Better Spanish</h3>
       <br />
       <a target="_blank" href="">
-        <img src="project-images/my-portfolio-cover.jpg" width="100%"  alt="better spanish app"/>
+        <img src="project-images/better-spanish-cover.jpg" width="100%"  alt="better spanish app"/>
       </a>
       <hr />
       <div align="center">
         <a target="_blank" href="https://github.com/RyanBProg/better-spanish"><img src="https://img.shields.io/badge/-GitHub%20Repo-36465D?style=flat&logo=github&logoColor=white"/></a>
         &nbsp;&nbsp;
-        <a target="_blank" href=""><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+        <a target="_blank" href="https://better-spanish-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>Typescript, React, Next.js, Tailwind, Node.js, & Express.js</strong> - Platform to...</p>
+      <p><strong>Typescript, React, Next.js, Tailwind, PostgreSQL</strong> - Platform to...</p>
     </td>
   </tr>
   <tr>
