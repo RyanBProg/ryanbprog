@@ -18,6 +18,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Drizzle](https://img.shields.io/badge/-Drizzle-05122A?style=flat&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -57,7 +58,7 @@
         <a target="_blank" href="https://better-spanish-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>Typescript, React, Next.js, Tailwind, PostgreSQL</strong> - Master Spanish through interactive games and spaced repetition. Built with Drizzle ORM for type-safe database operations and Tailwind CSS. Features include verb conjugation practice, customized flashcard system with spaced repetition algorithms and personalized progress tracking. Secured with Kinde Auth and deployed on Vercel for optimal performance and reliability</p>
+      <p><strong>Typescript, React, Next.js, Tailwind, Drizzle</strong> - Master Spanish through interactive games and spaced repetition. Built with Drizzle ORM for type-safe database operations and Tailwind CSS. Features include verb conjugation practice, customized flashcard system with spaced repetition algorithms and personalized progress tracking. Secured with Kinde Auth and deployed on Vercel for optimal performance and reliability</p>
     </td>
   </tr>
   <tr>
