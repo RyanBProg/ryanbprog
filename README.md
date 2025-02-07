@@ -41,13 +41,13 @@
         <a target="_blank" href="https://dev-trainer-frontend-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p align="left"><strong>Typescript, React, Next.js, Node.js, Express.js, MongoDB, Tailwind & DaisyUI</strong> - Platform to...</p>
+      <p align="left"><strong>Typescript, React, Next.js, Node.js, Express.js, MongoDB, Tailwind & DaisyUI</strong> - A modern web application for developers to master keyboard shortcuts through personalized lists. Built with React Query for seamless data management and Tailwind CSS for a responsive user experience. Features include JWT authentication, custom shortcut organization, and an admin panel for content management.</p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3 align="center">Better Spanish</h3>
       <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://better-spanish-ryans-projects-197c1757.vercel.app/">
         <img src="project-images/better-spanish-cover.jpg" width="100%"  alt="better spanish app"/>
       </a>
       <hr />
@@ -57,7 +57,7 @@
         <a target="_blank" href="https://better-spanish-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>Typescript, React, Next.js, Tailwind, PostgreSQL</strong> - Platform to...</p>
+      <p><strong>Typescript, React, Next.js, Tailwind, PostgreSQL</strong> - Master Spanish through interactive games and spaced repetition. Built with Drizzle ORM for type-safe database operations and Tailwind CSS. Features include verb conjugation practice, customized flashcard system with spaced repetition algorithms and personalized progress tracking. Secured with Kinde Auth and deployed on Vercel for optimal performance and reliability</p>
     </td>
   </tr>
   <tr>
