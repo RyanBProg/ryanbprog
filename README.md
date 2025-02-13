@@ -42,7 +42,7 @@
         <a target="_blank" href="https://dev-trainer-frontend-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p align="left"><strong>Typescript, React, Next.js, Node.js, Express.js, MongoDB, Tailwind & DaisyUI</strong> - A modern web application for developers to master keyboard shortcuts through personalized lists. Built with React Query for seamless data management and Tailwind CSS for a responsive user experience. Features include JWT authentication, custom shortcut organization, and an admin panel for content management.</p>
+      <p align="left"><strong>Typescript, React, Next.js, Node.js, Express.js, MongoDB, Tailwind & DaisyUI</strong> - An application for developers to master keyboard shortcuts through personalized lists. Features include custom shortcut organization, and an admin panel for content management.</p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
@@ -58,7 +58,7 @@
         <a target="_blank" href="https://better-spanish-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>Typescript, React, Next.js, Tailwind, Drizzle</strong> - Master Spanish through interactive games and spaced repetition. Built with Drizzle ORM for type-safe database operations and Tailwind CSS. Features include verb conjugation practice, customized flashcard system with spaced repetition algorithms and personalized progress tracking. Secured with Kinde Auth and deployed on Vercel for optimal performance and reliability</p>
+      <p><strong>Typescript, React, Next.js, Tailwind, Drizzle</strong> - Master Spanish faster with a focus on high frequency words and spaced repetition. Features include verb conjugation practice, flashcards with spaced repetition algorithms and personalized progress tracking</p>
     </td>
   </tr>
   <tr>
