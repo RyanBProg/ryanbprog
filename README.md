@@ -83,7 +83,7 @@
       <h3 align="center">Dymoné</h3>
       <br />
       <a target="_blank" href="https://dymone-ryans-projects-197c1757.vercel.app/">
-        <img src="project-images/my-portfolio-cover.jpg" width="100%" alt="dymone app"/>
+        <img src="project-images/dymone-cover.jpg" width="100%" alt="dymone app"/>
       </a>
       <hr />
       <div align="center">
@@ -92,7 +92,7 @@
         <a target="_blank" href="https://dymone-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>Typescript, React, Next.js, Tailwind, Node.js, & Express.js</strong> - Platform to...</p>
+      <p><strong>Typescript, React, Next.js, Tailwind, Sanity</strong> - Platform to...</p>
     </td>
   </tr>
 </table>
