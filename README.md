@@ -92,7 +92,7 @@
         <a target="_blank" href="https://dymone-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>Typescript, React, Next.js, Tailwind, Sanity</strong> - Platform to...</p>
+      <p><strong>Typescript, React, Next.js, Tailwind, Sanity, Stripe</strong> - A e-commerce site for a luxury jewellery online retailer, intergrated with Sanity as the CMS and stripe to process payments</p>
     </td>
   </tr>
 </table>
