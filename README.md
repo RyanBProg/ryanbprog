@@ -24,6 +24,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
+
+#### 🥷 &nbsp;Codewars
+
+<div align="left">
+  <img src="https://www.codewars.com/users/RyanBProg/badges/large" alt="Codewars Profile Badge">
+</div>
+
 #### 💼 &nbsp;Projects
 
 <table bordercolor="#66b2b2"> 
