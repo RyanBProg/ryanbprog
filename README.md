@@ -52,7 +52,7 @@
         <a target="_blank" href="https://www.devtrainer.net"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p align="left"><strong>TypeScript, React, Next.js, Node.js, Express.js, MongoDB, Redis, Tailwind</strong> - Master keyboard shortcuts through personalized lists. Features include custom shortcut organization, an admin panel for content management and AI for generating code snippets.</p>
+      <p align="left"><strong>TypeScript, React, Next.js, Node.js, Express.js, MongoDB, Redis, Tailwind</strong> - Master keyboard shortcuts through personalized lists. Features include custom shortcut organisation, an admin panel for content management and AI for generating code snippets.</p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
@@ -68,7 +68,7 @@
         <a target="_blank" href="https://better-spanish-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>TypeScript, React, Next.js, Tailwind, Drizzle</strong> - Master Spanish faster with a focus on high-frequency words. Features include verb conjugation practice, flashcards with spaced repetition algorithms and personalized progress tracking.</p>
+      <p><strong>TypeScript, React, Next.js, Tailwind, Drizzle</strong> - Master Spanish faster by focusing on high-frequency words. Features include verb conjugation practice, flashcards with spaced repetition algorithms and personalised progress tracking.</p>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
         <a target="_blank" href="https://www.ryanbprog.com"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>TypeScript, Astro, Tailwind & GSAP</strong> - A modern, responsive portfolio website showcasing my work as a Full Stack Developer. Built with Astro for optimal performance and user experience.</p>
+      <p><strong>TypeScript, Astro, Tailwind & GSAP</strong> - A modern, responsive portfolio website showcasing my work as a Full Stack Developer.</p>
     </td>
     <!-- Project 4 -->
     <td width="50%" valign="top">
@@ -102,7 +102,7 @@
         <a target="_blank" href="https://dymone-ryans-projects-197c1757.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20Site-6D4AFF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
       </div>
       <br />
-      <p><strong>TypeScript, React, Next.js, Tailwind, Sanity, Stripe</strong> - An e-commerce site for a luxury jewellery online retailer, intergrated with Sanity as the CMS and Stripe to process payments and manage products.</p>
+      <p><strong>TypeScript, React, Next.js, Tailwind, Sanity, Stripe</strong> - An e-commerce site for a luxury jewellery online retailer, intergrated with Sanity as the CMS and Stripe to process payments.</p>
     </td>
   </tr>
 </table>
